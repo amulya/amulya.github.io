@@ -1,2 +1,2 @@
 # amulya.github.io
-Click to enter my personal website!
+Please enjoy my personal website!
