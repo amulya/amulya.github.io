@@ -160,10 +160,6 @@ hr.small {
   height: 100%;
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #7b4397, #dc2430);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
